@@ -1,0 +1,3 @@
+Configuration du projet
+port=8080
+debug=true
